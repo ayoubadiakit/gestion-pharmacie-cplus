@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1676719048 source:c:\users\hafsatou bah\desktop\nouveau dossier\projet pharmacie diak\main.cpp
+	"biblio\header.h"
+	"biblio\definition.cpp"
+	"biblio\fonction_stock.cpp"
+	"biblio\fonction_vente.cpp"
+
+1645264889 c:\users\hafsatou bah\desktop\nouveau dossier\projet pharmacie diak\biblio\header.h
+	<stdio.h>
+
+1676881255 c:\users\hafsatou bah\desktop\nouveau dossier\projet pharmacie diak\biblio\definition.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+	"fonctions_menu.cpp"
+
+1645128620 c:\users\hafsatou bah\desktop\nouveau dossier\projet pharmacie diak\biblio\fonctions_menu.cpp
+	<iostream>
+	<stdlib.h>
+	"header.h"
+
+1645264090 c:\users\hafsatou bah\desktop\nouveau dossier\projet pharmacie diak\biblio\fonction_stock.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"header.h"
+
+1646126751 c:\users\hafsatou bah\desktop\nouveau dossier\projet pharmacie diak\biblio\fonction_vente.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"header.h"
+	<time.h>
+
+1679933860 source:c:\users\d.ayouba\desktop\projet pharmacie diak\main.cpp
+	"biblio\header.h"
+	"biblio\definition.cpp"
+	"biblio\fonction_stock.cpp"
+	"biblio\fonction_vente.cpp"
+
+1679933858 c:\users\d.ayouba\desktop\projet pharmacie diak\biblio\header.h
+	<stdio.h>
+
+1679933858 c:\users\d.ayouba\desktop\projet pharmacie diak\biblio\definition.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+	"fonctions_menu.cpp"
+
+1679933858 c:\users\d.ayouba\desktop\projet pharmacie diak\biblio\fonctions_menu.cpp
+	<iostream>
+	<stdlib.h>
+	"header.h"
+
+1679933858 c:\users\d.ayouba\desktop\projet pharmacie diak\biblio\fonction_stock.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"header.h"
+
+1679933858 c:\users\d.ayouba\desktop\projet pharmacie diak\biblio\fonction_vente.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"header.h"
+	<time.h>
+
